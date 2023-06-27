@@ -1,0 +1,10 @@
+﻿Build started...
+1>------ Build started: Project: HSV, Configuration: Debug Any CPU ------
+1>C:\Users\M4800\Desktop\23_12_2021\HSV23122021\HSV1215\HSV\Common.cs(276,38,276,40): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\M4800\Desktop\23_12_2021\HSV23122021\HSV1215\HSV\Common.cs(281,30,281,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\M4800\Desktop\23_12_2021\HSV23122021\HSV1215\HSV\Common.cs(325,38,325,40): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\M4800\Desktop\23_12_2021\HSV23122021\HSV1215\HSV\Common.cs(330,30,330,32): warning CS0168: The variable 'ex' is declared but never used
+1>  HSV -> C:\Users\M4800\Desktop\23_12_2021\HSV23122021\HSV1215\HSV\bin\Debug\HSV.exe
+2>------ Skipped Build: Project: Setup, Configuration: Debug ------
+2>Project not selected to build for this solution configuration 
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 1 skipped ==========
